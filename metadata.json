@@ -1,0 +1,5 @@
+{
+  "name": "AI Web Scraper Aggregator",
+  "description": "An application that uses AI to simulate scraping and aggregating product data from various e-commerce websites based on a user's search query, presenting the results in a unified interface.",
+  "requestFramePermissions": []
+}
